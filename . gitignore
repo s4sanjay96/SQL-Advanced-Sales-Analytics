@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# SQL Server backups and logs
+*.mdf
+*.ldf
+*.bak
+
+# Excel/Office temporary files
+~$*.xlsx
+~$*.docx
